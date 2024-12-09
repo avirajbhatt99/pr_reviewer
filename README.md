@@ -23,8 +23,8 @@ Alternatively, you can use **Docker** to spin up these services.
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/ai-pr-reviewer.git
-cd ai-pr-reviewer
+git clone https://github.com/avirajbhatt99/pr_reviewer.git
+cd pr_reviewer
 ```
 
 ---
